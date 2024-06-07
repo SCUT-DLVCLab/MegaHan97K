@@ -5,7 +5,8 @@ Our dataset will be released within a week.
 
 
 ## 🔥 Download
-| **Setting**                                    | **chekcpoint** | **status** |
+| **Setting**                                    | **Dataset** | **status** |
 |----------------------------------------------|----------------|------------|
+| **Example**                                  |    -            |       -     |
 | **General CCR**                              | [GoogleDrive](https://) / [BaiduYun:gexg](https://) | - |
 | **Zero-Shot CCR**                            | [GoogleDrive](https://) / [BaiduYun:gexg](https://p) | -    |
