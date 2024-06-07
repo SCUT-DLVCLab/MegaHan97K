@@ -1,5 +1,7 @@
 # MegaHan97K Dataset
 
+Our dataset will be published within a week.
+
 
 
 ## 🔥 Download
