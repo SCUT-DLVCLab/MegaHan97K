@@ -7,6 +7,5 @@ Our dataset will be released within a week.
 ## 🔥 Download
 | **Setting**                                    | **Dataset** | **status** |
 |----------------------------------------------|----------------|------------|
-| **Example**                                  |    -            |       -     |
-| **General CCR**                              | [GoogleDrive](https://) / [BaiduYun:gexg](https://) | - |
-| **Zero-Shot CCR**                            | [GoogleDrive](https://) / [BaiduYun:gexg](https://p) | -    |
+| **General CCR**                              | [GoogleDrive](https://) / [BaiduYun:mbns](https://pan.baidu.com/s/1lBnBvisG-P-1ZYs2cZALzw?pwd=mbns) | - |
+| **Zero-Shot CCR**                            | [GoogleDrive](https://) / [BaiduYun:6pxi](https://pan.baidu.com/s/1E5WMLh64HThP1TIVGNijcQ?pwd=6pxi) | -    |
