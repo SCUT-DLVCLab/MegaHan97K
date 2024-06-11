@@ -4,12 +4,13 @@ Our dataset will be released within a week.
 
 ![overview](/images/overview.png)
 
+![example](/images/all_data.png)
 
 ## 🔥 Download
 | **Setting**                                    | **Dataset** | **status** |
 |----------------------------------------------|----------------|------------|
-| **General CCR**                              | [GoogleDrive](https://) / [BaiduYun:mbns](https://pan.baidu.com/s/1lBnBvisG-P-1ZYs2cZALzw?pwd=mbns) | - |
-| **Zero-Shot CCR**                            | [GoogleDrive](https://) / [BaiduYun:6pxi](https://pan.baidu.com/s/1E5WMLh64HThP1TIVGNijcQ?pwd=6pxi) | -    |
+| **General CCR**                              | [GoogleDrive] / [BaiduYun:mbns](https://pan.baidu.com/s/1lBnBvisG-P-1ZYs2cZALzw?pwd=mbns) | - |
+| **Zero-Shot CCR**                            | [GoogleDrive] / [BaiduYun:6pxi](https://pan.baidu.com/s/1E5WMLh64HThP1TIVGNijcQ?pwd=6pxi) | -    |
 
 ## Usage
 * Execute the following command to retrieve example samples from the MegaHan97K dataset.
