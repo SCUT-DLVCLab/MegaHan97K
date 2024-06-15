@@ -63,11 +63,11 @@ python MegaHan_Dataloader.py
 * **Illustration of the synthetic data in MegaHan97K**
 ![syn](/images/syn.png)
 
+## 💙 Acknowledgement
+- [M<sup>5</sup>HisDoc](https://github.com/HCIILAB/M5HisDoc)
 
 ## License
-
 MegaHan97K should be used and distributed under [Creative Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License](https://creativecommons.org/licenses/by-nc-nd/4.0/) for non-commercial research purposes.
-
 ## Copyright
 
 - This repository can only be used for non-commercial research purposes.
