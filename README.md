@@ -62,3 +62,8 @@ python MegaHan_Dataloader.py
 
 * **Illustration of the synthetic data in MegaHan97K**
 ![syn](/images/syn.png)
+
+## Copyright
+- This repository can only be used for non-commercial research purposes.
+- For commercial use, please contact Prof. Lianwen Jin (eelwjin@scut.edu.cn).
+- Copyright 2024, [Deep Learning and Vision Computing Lab (DLVC-Lab)](http://www.dlvc-lab.net), South China University of Technology. 
