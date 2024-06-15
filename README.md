@@ -25,7 +25,7 @@
 git clone https://github.com/SCUT-DLVCLab/MegaHan97K.git
 ```
 
-* Execute the following command to retrieve example samples from the MegaHan97K dataset.
+* Execute the following command to obtain example samples from the MegaHan97K dataset.
 ```python
 python MegaHan_Dataloader.py
 ```
