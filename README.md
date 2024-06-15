@@ -13,10 +13,10 @@
 
 
 ## 🔥 Download
-| **Setting**                                    | **Dataset** | **status** |
-|----------------------------------------------|----------------|------------|
-| **General CCR**                              | [GoogleDrive](https://drive.google.com/file/d/15rB6WE92RBB898kJoj3CFeSotPj_v3N-/view?usp=drive_link) / [BaiduYun:mbns](https://pan.baidu.com/s/1lBnBvisG-P-1ZYs2cZALzw?pwd=mbns) | Released |
-| **Zero-Shot CCR**                            | [GoogleDrive](https://drive.google.com/file/d/1UjmdeErr89L3AX5Yd95B8IWgesPyR2xT/view?usp=drive_link) / [BaiduYun:6pxi](https://pan.baidu.com/s/1E5WMLh64HThP1TIVGNijcQ?pwd=6pxi) | Released    |
+| **Setting**             | **Dataset** | **status** |
+|-------------------------|----------------|------------|
+| **General CCR**         | [GoogleDrive](https://drive.google.com/file/d/15rB6WE92RBB898kJoj3CFeSotPj_v3N-/view?usp=drive_link) / [BaiduYun:mbns](https://pan.baidu.com/s/1lBnBvisG-P-1ZYs2cZALzw?pwd=mbns) | Released |
+| **Zero-Shot CCR**       | [GoogleDrive](https://drive.google.com/file/d/1UjmdeErr89L3AX5Yd95B8IWgesPyR2xT/view?usp=drive_link) / [BaiduYun:6pxi](https://pan.baidu.com/s/1E5WMLh64HThP1TIVGNijcQ?pwd=6pxi) | Released    |
 
 ## 🛠️ Usage
 
@@ -65,6 +65,7 @@ python MegaHan_Dataloader.py
 
 ## 💙 Acknowledgement
 - [M<sup>5</sup>HisDoc](https://github.com/HCIILAB/M5HisDoc)
+- [FontDiffuser](https://github.com/yeungchenwa/FontDiffuser)
 
 ## License
 MegaHan97K should be used and distributed under [Creative Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License](https://creativecommons.org/licenses/by-nc-nd/4.0/) for non-commercial research purposes.
