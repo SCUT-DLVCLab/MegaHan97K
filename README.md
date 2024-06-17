@@ -30,7 +30,7 @@ git clone https://github.com/SCUT-DLVCLab/MegaHan97K.git
 python MegaHan_Dataloader.py
 ```
 
-**Note: If you wish to access the entire dataset, please contact us via the email of the first author listed in the paper to obtain the decryption password.**
+**Note: If you wish to access the entire dataset, please contact us via the email of the first author (yuyi.zhang11@foxmail.com) listed in the paper to obtain the decryption password.**
 * To access the entire dataset, please first download it, update the ```data_root``` in the python ```MegaHan_Dataloader.py``` script and then execute
 ```python
 python MegaHan_Dataloader.py
