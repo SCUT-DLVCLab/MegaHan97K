@@ -1,4 +1,12 @@
-# MegaHan97K Dataset
+<h1 align="center">MegaHan97K Dataset</h1>
+
+<div align="center">
+
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320325004170"> <b>MegaHan97K: A Large-Scale Dataset for Mega-Category Chinese Character Recognition with over 97K Categories</b> </a>
+
+<b>Pattern Recognition (PR), 2025</b>
+
+</div>
 
 * We introduce MegaHan97K, a mega-category, large-scale dataset that contains the largest 97,455 Chinese character categories.
 * MegaHan97K includes Chinese characters of 97,455 categories, which significantly surpasses existing datasets with at least six times larger categories and holds the largest volume.
