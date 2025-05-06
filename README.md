@@ -15,8 +15,8 @@
 ## 🔥 Download
 | **Setting**             | **Dataset** | **status** |
 |-------------------------|----------------|------------|
-| **General CCR**         | - | Will be released this month |
-| **Zero-Shot CCR**       | - | Will be released this month |
+| **General CCR**         | - | Will be released in this month |
+| **Zero-Shot CCR**       | - | Will be released in this month |
 
 ## 🛠️ Usage
 
