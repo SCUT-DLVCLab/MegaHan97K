@@ -81,8 +81,9 @@ python MegaHan_Dataloader.py
 
 ## License
 MegaHan97K should be used and distributed under [Creative Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License](https://creativecommons.org/licenses/by-nc-nd/4.0/) for non-commercial research purposes.
+
 ## Copyright
 
 - This repository can only be used for non-commercial research purposes.
 - For commercial use, please contact Prof. Lianwen Jin (eelwjin@scut.edu.cn).
-- Copyright 2024, [Deep Learning and Vision Computing Lab (DLVC-Lab)](http://www.dlvc-lab.net), South China University of Technology. 
+- Copyright 2025, [Deep Learning and Vision Computing Lab (DLVC-Lab)](http://www.dlvc-lab.net), South China University of Technology. 
