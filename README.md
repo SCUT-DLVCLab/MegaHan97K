@@ -23,8 +23,8 @@
 ## 🔥 Download
 | **Setting**             | **Dataset** | **status** |
 |-------------------------|----------------|------------|
-| **General CCR**         | [Baiduyun:k4ch](https://pan.baidu.com/s/1LwIS-K812Q0LjBajpvQeVw?pwd=k4ch) | Will be released in this month |
-| **Zero-Shot CCR**       | [Baiduyun:bxde](https://pan.baidu.com/s/1tKhrIZK7zmpQq3NNCo5Edw?pwd=bxfe) | Will be released in this month |
+| **General CCR**         | [Baiduyun:k4ch](https://pan.baidu.com/s/1LwIS-K812Q0LjBajpvQeVw?pwd=k4ch) | Released |
+| **Zero-Shot CCR**       | [Baiduyun:bxde](https://pan.baidu.com/s/1tKhrIZK7zmpQq3NNCo5Edw?pwd=bxfe) | Released |
 
 ## 🛠️ Usage
 
