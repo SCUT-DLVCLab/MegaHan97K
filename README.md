@@ -23,7 +23,7 @@
 ## 🔥 Download
 | **Setting**             | **Dataset** | **status** |
 |-------------------------|----------------|------------|
-| **General CCR**         | [Baiduyun:k4ch](https://pan.baidu.com/s/1LwIS-K812Q0LjBajpvQeVw?pwd=k4ch) | Released |
+| **General CCR**         | [Baiduyun:k4ch](https://pan.baidu.com/s/1LwIS-K812Q0LjBajpvQeVw?pwd=k4ch)/[OneDrive](https://1drv.ms/u/c/d3b0ec8fe3491f94/EYi4e5_dtLBMmFl9I669KjEBr2PqPWEd7VLxeIzHDlKhgg?e=YXrQEO) | Released |
 | **Zero-Shot CCR**       | [Baiduyun:bxde](https://pan.baidu.com/s/1tKhrIZK7zmpQq3NNCo5Edw?pwd=bxfe)/[OneDrive](https://1drv.ms/u/c/d3b0ec8fe3491f94/ETsFnx-i6sRJvrVrgnvO3h4BMugmO2TUObjD9ddz3xfEmw?e=IoUcXq) | Released |
 
 ## 🛠️ Usage
