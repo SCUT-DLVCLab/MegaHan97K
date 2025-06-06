@@ -11,6 +11,9 @@
 
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320325004170"> <b>Pattern Recognition (PR), 2025</b> </a>
 
+[![arXiv preprint](http://img.shields.io/badge/arXiv-2506.04807-b31b1b)](https://arxiv.org/abs/2506.04807) 
+[![Code](https://img.shields.io/badge/Code-MegaHan97K-yellow)](https://github.com/SCUT-DLVCLab/MegaHan97K)
+
 </div>
 
 * We introduce MegaHan97K, a mega-category, large-scale dataset that contains the largest 97,455 Chinese character categories.
