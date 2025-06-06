@@ -9,14 +9,16 @@
 <div align="center">
 
 
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320325004170"> <b>Pattern Recognition (PR), 2025</b> </a>
+<!-- <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320325004170"> <b>Pattern Recognition (PR), 2025</b> </a> -->
 
+[![SCUT DLVC Lab](https://img.shields.io/badge/SCUT-DLVC_Lab-327FE6?logo=Academia&logoColor=white)](http://dlvc-lab.net/lianwen/)
+[![Pattern Recognition](https://img.shields.io/badge/Pattern_Recognition-2025-FF6C37?logo=Elsevier&logoColor=white&labelColor=0C2340)](https://www.sciencedirect.com/science/article/abs/pii/S0031320325004170)
 [![arXiv preprint](http://img.shields.io/badge/arXiv-2506.04807-b31b1b)](https://arxiv.org/abs/2506.04807) 
 [![Code](https://img.shields.io/badge/Code-MegaHan97K-yellow)](https://github.com/SCUT-DLVCLab/MegaHan97K)
 
 </div>
 
-* We introduce MegaHan97K, a mega-category, large-scale dataset that contains the largest 97,455 Chinese character categories.
+* We introduce **MegaHan97K**, a mega-category, large-scale dataset that contains the largest 97,455 Chinese character categories.
 * MegaHan97K includes Chinese characters of 97,455 categories, which significantly surpasses existing datasets with at least six times larger categories and holds the largest volume.
 * MegaHan97K pioneers to support the latest Chinese GB18030-2022 standard, ensuring the most comprehensive coverage and compatibility with modern Chinese processing systems.
 * MegaHan97K contains three distinct subsets: handwritten, historical, and synthetic. Each subset contains a greater number of character categories compared to existing datasets, resulting in remarkable scale and diversity advantages.
