@@ -1,10 +1,15 @@
-<h1 align="center">MegaHan97K Dataset</h1>
+<div align=center>
+
+# MegaHan97K: A Large-Scale Dataset for Mega-Category Chinese Character Recognition with over 97K Categories
+
+</div>
+
+![Megahan97K_LOGO](images/logo.png) 
 
 <div align="center">
 
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320325004170"> <b>MegaHan97K: A Large-Scale Dataset for Mega-Category Chinese Character Recognition with over 97K Categories</b> </a>
 
-<b>Pattern Recognition (PR), 2025</b>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320325004170"> <b>Pattern Recognition (PR), 2025</b> </a>
 
 </div>
 
