@@ -58,7 +58,7 @@ python MegaHan_Dataloader.py
 python MegaHan_Dataloader.py
 ```
 
-## ☎️ Cotact
+## ☎️ Contact
 If you have any questions, feel free to contact [Yuyi Zhang](https://github.com/ZZXF11) at [yuyi.zhang11@foxmail.com](yuyi.zhang11@foxmail.com)
 
 ## 🌄 Gallery
