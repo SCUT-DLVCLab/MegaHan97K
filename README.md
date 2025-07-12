@@ -98,4 +98,7 @@ MegaHan97K should be used and distributed under [Creative Attribution-NonCommerc
 
 - This repository can only be used for non-commercial research purposes.
 - For commercial use, please contact Prof. Lianwen Jin (eelwjin@scut.edu.cn).
-- Copyright 2025, [Deep Learning and Vision Computing Lab (DLVC-Lab)](http://www.dlvc-lab.net), South China University of Technology. 
+- Copyright 2025, [Deep Learning and Vision Computing Lab (DLVC-Lab)](http://www.dlvc-lab.net), South China University of Technology.
+
+## ⭐ Star Rising
+[![Star Rising](https://api.star-history.com/svg?repos=SCUT-DLVCLab/MegaHan97K&type=Timeline)](https://star-history.com/#SCUT-DLVCLab/MegaHan97K&Timeline)
