@@ -49,7 +49,7 @@ python MegaHan_Dataloader.py
 ```
 
 **Note:**
-- The MegaHan97K dataset can only be used for non-commercial research purposes. For scholar or organization who wants to use the MegaHan97K dataset, please first fill in this [Application Form](./application-form/Application-Form-for-Using-MegaHan97K.docx) and sign the [Legal Commitment](./application-form/Legal-Commitment.docx) and email them to us ([eelwjin@scut.edu.cn](eelwjin@scut.edu.cn), cc: [yuyi.zhang11@foxmail.com](yuyi.zhang11@foxmail.com)). When submitting the application form to us, please list or attached 1-2 of your publications in the recent 6 years to indicate that you (or your team) do research in the related research fields of handwriting analysis and recognition, document image processing, and so on.
+- The MegaHan97K dataset can only be used for non-commercial research purposes. For scholar or organization who wants to use the MegaHan97K dataset, please first fill in this [Application Form](./application-form/Application-Form-for-Using-MegaHan97K.docx) and sign the [Legal Commitment](./application-form/Legal-Commitment.docx) and email them to us ([eelwjin@scut.edu.cn](eelwjin@scut.edu.cn), cc: [lianwen.jin@gmail.com](lianwen.jin@gmail.com)). When submitting the application form to us, please list or attached 1-2 of your publications in the recent 6 years to indicate that you (or your team) do research in the related research fields of handwriting analysis and recognition, document image processing, and so on.
 - We will give you the decompression password after your application has been received and approved.
 - All users must follow all use conditions; otherwise, the authorization will be revoked.
 
